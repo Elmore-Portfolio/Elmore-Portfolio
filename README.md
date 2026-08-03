@@ -16,8 +16,6 @@
 
 - 📫 You can reach me at **michaelanthony.elmore@gmail.com**
 
-- ⚡ Fun fact: **I competed as a member of the UT San Antonio Collegiate esports team in Rocket League**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
