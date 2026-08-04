@@ -12,7 +12,7 @@
 
 - 🎓 I studied: **Computer Engineering @ UTSA (3) years , Petroleum Engineering @ LSU (2 Years)**
 
-- 📫 You can reach me at **michaelanthony.elmore@gmail.com**
+- 📫 You can reach me at **melmore.dev**
 
 
 <h3 align="left">Connect with me:</h3>
