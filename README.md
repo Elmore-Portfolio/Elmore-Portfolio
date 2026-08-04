@@ -4,8 +4,6 @@
 
 **<h3 align="center">B.S. in Computer Engineering</h3>**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elmore-portfolio&label=Profile%20views&color=0e75b6&style=flat" alt="elmore-portfolio" /> </p>
-
 </a> </p>
 
 - 🔭 I’m currently working on **a career transition towards Cloud Engineering**
