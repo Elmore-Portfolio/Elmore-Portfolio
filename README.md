@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **a career transition towards Cloud Engineering**
 
-- 🌱 I’m currently growing in **Amazon Web Services**
+- 🌱 I’m currently growing in **Amazon Web Services, Terraform***
 
 - 🎓 I studied: **Computer Engineering @ UTSA (3) years , Petroleum Engineering @ LSU (2 Years)**
 
