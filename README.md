@@ -12,7 +12,7 @@
 
 - 🎓 I studied: **Computer Engineering @ UTSA (3) years , Petroleum Engineering @ LSU (2 Years)**
 
-- 🌎 You can reach me at **melmore.dev**
+- 🌎 You can reach me at <a href="https://melmore.dev" target="blank">**melmore.dev**</a>
 
 
 <h3 align="left">Connect with me:</h3>
